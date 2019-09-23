@@ -1,2 +1,2 @@
 # primespace
-A project to implement prime number as a vector space
+A project to implement prime numbers as a vector space
